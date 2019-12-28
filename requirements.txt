@@ -1,4 +1,7 @@
 jupyter
 torch
 torchvision
+sklearn
+scipy
+pandas
 
